@@ -1,9 +1,9 @@
 member:
 
-Kevin Adriano - 2306172552
+Kevin Adriano - 2306172552 - green
 
-Izzy dharma
+Izzy dharma -2306256425 - red
 
-Alano davin
+Alano davin -2306172363 - yellow
 
-Damar aryaputra
+Damar aryaputra -2306256280 - blue
